@@ -11,4 +11,4 @@ Although students are encouraged to discuss the problem background and coding te
 
 #### Submission deadline
 
-The final version of your module should be submitted via your GitHub Classrooms repository by 12 noon on Friday 18th October 2019.
+The final version of your module should be submitted via your GitHub Classrooms repository by 12 noon on Friday 17th August 2020.
